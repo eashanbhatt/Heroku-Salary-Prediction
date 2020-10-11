@@ -1,1 +1,1 @@
-# Here is a simple salary prediction flask-heroku demo
+# Salary prediction flask-heroku demo
